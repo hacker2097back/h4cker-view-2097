@@ -25,9 +25,9 @@ def print_title():
     /'\\_   _/`\\
     \\___)=(___/
 
-{MAGENTA}                 H4CKE_2097{RESET}
+{MAGENTA}                 H4CKER_2097{RESET}
 {YELLOW}=================================================={RESET}
-{CYAN}             Welcome to  H4CKE_2097 TOOL !{RESET}
+{CYAN}             Welcome to  H4CKER_2097 TOOL !{RESET}
 """
     print(title)
 
