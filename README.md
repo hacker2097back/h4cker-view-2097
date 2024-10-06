@@ -33,7 +33,7 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 
 | 6 | apt install git -y
 
-| 7 | git clone https://github.com/hacker2097back/h4cker-view-2097.git
+| 7 | git clone https://github.com/hacker2097back/hackview.git
 
 | 8 | cd h4cker-view-2097
 
