@@ -17,8 +17,7 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 |-|-|-|-|
 |1| HOW TO USE | YOUTUBE | https://youtu.be/iswAGglPJMk
 |2| OWNER | TELEGRAM | https://t.me/jeansonjemesancheta
-|3| OWNER | INSTAGRAM | https://t.me/jeansonjemesancheta
-
+|3| OWNER | INSTAGRAM | https://www.instagram.com/h4cker_2097?igsh=ZGJqbGFjZjh0c2g0
 ## TERMUX TOOL 
 
 | 1 | apt update
@@ -27,14 +26,28 @@ Enhance your Telegram interactions effortlessly with H4CK3R VIEW 2097!
 
 | 3 | pkg install python
 
-| 4 | python h4cker_view_2097.py
+| 4 | pkg update && pkg upgrade -y
 
 | 5 | pkg install -y git python
 
-| 6 | apt install git -y
+| 6 |pkg install python3 -y
 
-| 7 | git clone https://github.com/hacker2097back/hackview.git
+| 7 | apt install git -y
 
-| 8 | cd h4cker-view-2097
+| 8 | git clone https://github.com/hacker2097back/hackview.git
 
-| 9 | python h4cker-view-2097.py
+| 9 | cd h4cker-view-2097
+
+| 10 | python h4cker-view-2097.py
+
+# IF NOT WORK 
+
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python-pip
+
+pip install pycryptodome
